@@ -1,0 +1,12 @@
+name = "Mate"
+description = "Pa tomar"
+author = "Flaviongas"
+version = "0.5"
+forumthread = "/"
+--icon_atlas = "modicon.xml"
+--icon = "modicon.tex"
+all_clients_require_mod = true
+dont_starve_compatible = true
+reign_of_giants_compatible = true
+dst_compatible = true
+api_version = 10
